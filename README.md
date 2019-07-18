@@ -2,7 +2,7 @@
 
 # Creator @ Boychongzen aka Xroot
 
-# Install ruby & Eksekusi Script ip-subdomain.rb
+# Install ruby & Eksekusi Script ip-subdomain
 
 pkg update && pkg upgrade
 
