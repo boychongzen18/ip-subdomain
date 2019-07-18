@@ -4,8 +4,9 @@
 
 # Install ruby & Eksekusi Script ip-subdomain.rb
 
-pkg update && upgrade -y
-pkg install ruby
+pkg update && pkg upgrade
+
+pkg install ruby gem
 
 install gem
 
