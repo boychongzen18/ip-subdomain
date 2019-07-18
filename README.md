@@ -10,9 +10,13 @@ pkg install ruby
 install gem
 
 1.mechanize [ gem install mechanize ]
+
 2.colorize [ gem install colorize ]
+
 3.json [ gem install json ]
+
 4.http [ gem install net/http ]
+
 5.require [ gem install required ]
 
 # Tampilan LOGO  
